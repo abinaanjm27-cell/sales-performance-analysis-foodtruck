@@ -9,7 +9,7 @@ Analyzed one month of food truck transaction data to identify high-performing me
 
 ## Visualization
 
-![Top Selling Items](top_selling_items_chart.png)
+![Top Selling Items](top_selling_items_chart.png.png.png)
 
 Dataset
 
