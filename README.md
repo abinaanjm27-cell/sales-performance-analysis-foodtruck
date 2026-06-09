@@ -40,15 +40,14 @@ Methodology
 
 Key Insights
 
-Top Performing Items
-
-Item| Units Sold
-Chicken Burger| 17
-Shawarma Roll| 13
-Mutton Galouti| 13
-French Fries| 12
-Chicken Wrap| 11
-Chicken Kebab Roll| 11
+| Item | Units Sold |
+|------|------------|
+| Chicken Burger | 17 |
+| Shawarma Roll | 13 |
+| Mutton Galouti | 13 |
+| French Fries | 12 |
+| Chicken Wrap | 11 |
+| Chicken Kebab Roll | 11 |
 
 The top 10 menu items generated approximately 46.5% of total sales.
 
@@ -70,11 +69,6 @@ Recommendations
 - Prioritize marketing efforts for proven best sellers.
 - Test future menu additions within high-demand product categories.
 
-Repository Contents
-
-- "raw_data.csv" — Transaction-level dataset
-- "analysis.xlsx" — Aggregated analysis and charts
-- "README.md" — Project documentation
 
 Skills Demonstrated
 
