@@ -7,6 +7,10 @@ Project Overview
 
 Analyzed one month of food truck transaction data to identify high-performing menu items, low-performing products, customer preferences, and opportunities for menu optimization.
 
+## Visualization
+
+![Top Selling Items](top_selling_items_chart.png)
+
 Dataset
 
 - Period: September 2025
